@@ -1,0 +1,9 @@
+Building Trueinvestmentcoin
+
+See doc/readme-qt.rst for instructions on building Trueinvestmentcoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Trueinvestmentcoin.
+
+See doc/build-*.txt for instructions on building trueinvestmentcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Trueinvestmentcoin.
